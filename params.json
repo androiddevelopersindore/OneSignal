@@ -1,6 +1,6 @@
 {
   "name": "Onesignal",
   "tagline": "Let's code together and make something meaningful",
-  "body": "# One Signal \r\nOne is third party push notification API. It is basically used to send notification with some advance feature. Like 1. 1. send notification to near by location. we can set range up to certain. \r\n2. send remainder notification.\r\n3. set icon image\r\n    set small icon \r\n    set big icon \r\n    set notification banner image\r\n\r\n###  Developer Contributor \r\n\r\nwe want developer who can explore one signal feature.  \r\n    ",
+  "body": "# One Signal \r\nOne is third party push notification API. It is basically used to send notification with some advance feature. Like \r\n\r\n1. send notification to near by location. we can set range up to certain. \r\n\r\n2. send remainder notification.\r\n\r\n3. set icon image\r\n\r\n    set small icon \r\n    set big icon \r\n    set notification banner image\r\n\r\n###  Developer Contributor \r\n\r\nwe want developer who can explore one signal feature.  \r\n    ",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
